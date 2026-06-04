@@ -47,7 +47,7 @@ const HeroSection = () => {
               {/* Download */}
               <button className="border border-cyan-400 px-6 md:px-7 py-3 rounded-full flex items-center justify-center gap-2 w-full sm:w-max hover:scale-105 transition-all">
                 <Download size={18} className="text-cyan-400" />
-                <a href="/resume.pdf" download className="text-cyan-400">
+                <a href="./resume.pdf" download className="text-cyan-400">
                   Download Resume
                 </a>
               </button>
