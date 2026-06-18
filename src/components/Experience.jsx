@@ -13,7 +13,7 @@ const Experience = () => {
     {
       id: 1,
       name: "React",
-      width: "85%",
+      width: "90%",
       icon: Layout,
     },
     {
@@ -25,13 +25,13 @@ const Experience = () => {
     {
       id: 3,
       name: "JavaScript",
-      width: "90%",
+      width: "80%",
       icon: Layout,
     },
     {
       id: 4,
       name: "React + TypeScript",
-      width: "85%",
+      width: "90%",
       icon: Layout,
     },
     {
@@ -53,13 +53,7 @@ const Experience = () => {
       id: 1,
       role: "Full Stack Developer Intern",
       company: "Opsie Software Solutions Inc.",
-      date: "Feb 2026 - Jun 2026",
-    },
-    {
-      id: 2,
-      role: "Frontend Developer Intern",
-      company: "Opsie Software Solutions Inc.",
-      date: "Jan 2026 - Feb 2026",
+      date: "Feb - Jun 2026",
     },
   ];
 

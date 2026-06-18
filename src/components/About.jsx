@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../assets/Image1.jpg";
+import Image from "../assets/download.jpg";
 
 const About = () => {
   return (
@@ -16,11 +16,9 @@ const About = () => {
           </h2>
 
           <p className="text-gray-400 lg:text-lg mb-10 leading-relaxed">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Commodi minima ipsum nisi nobis quibusdam animi id quia.
-            Corporis <br />
-            reiciendis repudiandae nam ad modi, laborum, repellat aliquam
-            saepe, ipsum est praesentium.
+            A highly motivated person, with a hands on experience in creating web and mobile applications development,
+            eager to learn and gain more skills and knowledge willing to be train and enhance my knowledge while
+            experiencing the real world environment.
           </p>
 
           {/* Stats */}
@@ -36,7 +34,7 @@ const About = () => {
 
             <div className="text-center rounded-2xl bg-[#111a3e] border border-[#1f1641] p-5 transition-all duration-300 hover:border-primary/50">
               <h3 className="text-primary font-bold text-2xl md:text-3xl">
-                +5
+                3
               </h3>
               <p className="text-xs text-gray-400 uppercase tracking-wider mt-0.5">
                 Projects

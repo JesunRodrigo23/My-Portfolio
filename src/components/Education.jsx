@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../assets/Image1.jpg";
+import Image from "../assets/download.jpg";
 import { CheckCircle, GraduationCap, Calendar } from "lucide-react";
 
 const Education = () => {
@@ -9,14 +9,14 @@ const Education = () => {
       degree: "Bachelor of Information Technology",
       institution: "STI Pasay-EDSA College",
       duration: "2022-2026",
-      details: "Lorem Ipsum",
+      
     },
     {
       id: 2,
       degree: "Senior High School, NC II Computer System Servicing",
       institution: "Engracia L. Valdomar National High School",
       duration: "2019-2020",
-      details: "Lorem Ipsum",
+      
     },
   ];
 

@@ -1,7 +1,7 @@
 import React from "react";
 import {
   FaEnvelope,
-  FaLinkedin,
+  FaGithub,
   FaPhone,
   FaMapMarkerAlt,
 } from "react-icons/fa";
@@ -17,13 +17,13 @@ const Contact = () => {
     },
     {
       id: 2,
-      icon: FaLinkedin,
-      title: "LinkedIn",
-      value: "linkedin.com/in/jesunrodrigo",
-      link: "https://linkedin.com/in/jesunrodrigo",
+      icon: FaGithub,
+      title: "Github",
+      value: "https://github.com/JesunRodrigo23",
+      link: "https://github.com/JesunRodrigo23",
     },
     {
-      id: 3,
+      id: 3,  
       icon: FaPhone,
       title: "Phone",
       value: "+63 985 772 6394",

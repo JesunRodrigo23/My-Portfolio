@@ -5,31 +5,32 @@ const Certificates = () => {
     const certifications = [
         {
             id: 1,
-            title: "Bachelor of Information Technology",
+            title: "Oracle Academy Award of Course Completion of Java Fundamentals,",
             issuer: "STI Pasay-EDSA College",
-            date: "2022-2026",
-            des: "Lorem Ipsum",
+            date: "2023",
+            desc: "Actively participating during the teaching of Java fundamentals"
         },
         {
             id: 2,
-            title: "Bachelor of Information Technology",
+            title: "Certificate of Appreciation - IT SYMPOSIUM",
             issuer: "STI Pasay-EDSA College",
-            date: "2022-2026",
-            des: "Lorem Ipsum",
+            date: "2025",
+            desc: "Actively participating during the IT Symposium with the theme Intergrate, Innovate, Illuminate Shaping the Future of STI"
+           
         },
         {
             id: 3,
-            title: "Bachelor of Information Technology",
+            title: "Completed the training course in SAP Business One ",
             issuer: "STI Pasay-EDSA College",
             date: "2022-2026",
-            des: "Lorem Ipsum",
+            desc: "Finish the training in SAP Business One"
         },
         {
             id: 4,
-            title: "Bachelor of Information Technology",
-            issuer: "STI Pasay-EDSA College",
-            date: "2022-2026",
-            des: "Lorem Ipsum",
+            title: "Certificates of Completion",
+            issuer: "Opsie Software Solutions Inc.",
+            date: "2026",
+            desc: "Completed the Internship training"
         },
     ]
     
