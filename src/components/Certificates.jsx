@@ -22,7 +22,7 @@ const Certificates = () => {
             id: 3,
             title: "Completed the training course in SAP Business One ",
             issuer: "STI Pasay-EDSA College",
-            date: "2022-2026",
+            date: "2024",
             desc: "Finish the training in SAP Business One"
         },
         {
